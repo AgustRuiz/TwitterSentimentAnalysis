@@ -9,3 +9,6 @@ nb-configuration.xml
 
 # Class Files #
 *.class
+
+# Propiedades de la API (claves secretas de la aplicación)
+src/twitter4j.properties
